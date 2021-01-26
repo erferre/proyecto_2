@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Windows 
+ El n£mero de serie del volumen es: 8014-0EC6
+
+ Directorio de C:\JMFM\PRUEBAS_GIT\GIT1
+
+26/01/2021  13:32    <DIR>          .
+26/01/2021  13:32    <DIR>          ..
+26/01/2021  13:32                 0 fichero.txt
+               1 archivos              0 bytes
+               2 dirs  81.189.371.904 bytes libres
