@@ -1,0 +1,14 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 36E9-8A2B
+
+ Directorio de C:\SDK\PRUEBAS_GIT
+
+27/01/2021  18:52    <DIR>          .
+27/01/2021  18:52    <DIR>          ..
+27/01/2021  18:48               360 fichero.txt
+27/01/2021  18:48               596 pruebaHF.txt
+27/01/2021  18:52                 0 salida.txt
+27/01/2021  18:48               861 setVariablesAsAdministrator.cmd
+27/01/2021  18:48             4.202 V20210121000000001_update_itinerarios_nuevasBM_grupos_cerrados.sql
+               5 archivos          6.019 bytes
+               2 dirs  13.800.353.792 bytes libres
