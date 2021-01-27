@@ -1,0 +1,7 @@
+/exabeat-flyway/src/main/resources/db/migration/5_3az/postgres/exabeat_backend/27_BM/V20210121000000000_update_reading_center_nuevasBM.sql 
+/exabeat-flyway/src/main/resources/db/migration/5_3az/postgres/exabeat_backend/27_BM/V20210121000000001_update_itinerarios_nuevasBM_grupos_cerrados.sql
+
+
+"/exabeat-flyway/src/main/resources/db/migration/5_3az/postgres/exabeat_backend/27_BM/V20210121000000000_update_reading_center_nuevasBM.sql 
+/exabeat-flyway/src/main/resources/db/migration/5_3az/postgres/exabeat_backend/27_BM/V20210121000000001_update_itinerarios_nuevasBM_grupos_cerrados.sql
+"
